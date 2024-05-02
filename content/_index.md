@@ -28,6 +28,7 @@ As a general principle, AI is a third-party that is involved, and the person inv
 ## Contributors
 
 
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -55,6 +56,18 @@ All contributions to this project are gratefully acknowledged using the [`allcon
 </a><br>
 <a href="https://github.com/chartgerink/ai-covenant/commits?author=craddm">craddm</a>
 </td>
+<td align="center">
+<a href="https://github.com/elichad">
+<img src="https://avatars.githubusercontent.com/u/20683271?u=103171956637b665f89124f0b3cd4ccb8c2c7728&v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/chartgerink/ai-covenant/commits?author=elichad">elichad</a>
+</td>
+<td align="center">
+<a href="https://github.com/thomaszwagerman">
+<img src="https://avatars.githubusercontent.com/u/36264706?u=e1b13376dc06cf62708b3dc141c8960d4328c663&v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/chartgerink/ai-covenant/commits?author=thomaszwagerman">thomaszwagerman</a>
+</td>
 </tr>
 
 </table>
@@ -62,5 +75,6 @@ All contributions to this project are gratefully acknowledged using the [`allcon
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 
