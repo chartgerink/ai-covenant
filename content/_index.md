@@ -17,7 +17,7 @@ Specific behaviors we do not allow:
 Specific behaviors we encourage/allow:
 
 - Generated content is specifically marked with the model + prompt (for example images)
-- Requesting consent to...
+- Requesting consent of participants and organizers to use AI based tools.
   - ...use "AI"
   - ...share [information] with "AI"
 - Justify the use of "AI" on a case by case basis, taking into account risks, harms.
