@@ -63,5 +63,5 @@ All contributions to this project are gratefully acknowledged using the [`allcon
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
+This project started during [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24).
 
