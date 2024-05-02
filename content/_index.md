@@ -24,3 +24,35 @@ Specific behaviors we encourage/allow:
 - Mark any generated content with the model and prompt used for its creation (for example images).
 
 As a general principle, AI is a third-party that is involved, and the person involving the third-party is responsible for them. Inviting a third-party to a meeting or sharing information with them can be a breach of community trust, when it happens without consent.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+All contributions to this project are gratefully acknowledged using the [`allcontributors` package](https://github.com/ropenscilabs/allcontributors) following the [all-contributors](https://allcontributors.org) specification. Contributions of any kind are welcome!
+
+<table>
+
+<tr>
+<td align="center">
+<a href="https://github.com/chartgerink">
+<img src="https://avatars.githubusercontent.com/u/2946344?v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/chartgerink/ai-covenant/commits?author=chartgerink">chartgerink</a>
+</td>
+<td align="center">
+<a href="https://github.com/rivaquiroga">
+<img src="https://avatars.githubusercontent.com/u/31421616?v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/chartgerink/ai-covenant/commits?author=rivaquiroga">rivaquiroga</a>
+</td>
+</tr>
+
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
