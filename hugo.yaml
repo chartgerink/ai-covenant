@@ -18,9 +18,9 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
+    - name: Context
+      pageRef: /context
+      weight: 2
     - name: About
       pageRef: /about
       weight: 2
