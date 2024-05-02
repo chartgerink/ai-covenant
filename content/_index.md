@@ -3,6 +3,8 @@ title: AI Covenant
 toc: false
 ---
 
+![100% human made](https://img.shields.io/badge/100%25%20human%20made-violet?style=for-the-badge&logo=myspace)
+
 The use of "Artificial Intelligence" models affects the dynamics between people. We encourage mindful and considerate use of "AI" in our community that is grounded in our community values.
 
 Specific behaviors we do not allow:
