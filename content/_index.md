@@ -8,6 +8,7 @@ The use of "Artificial Intelligence" models affects the dynamics between people.
 Specific behaviors we do not allow:
 
 - Passing generated content off as your own
+- Arriving to a meeting with an AI assistant without asking the other participants
 - Sending your AI assistant to meetings in your place
 - [promoting the use of AI for everything (AI-ifying everything)]
 - - If the use of generative tools has been allowed, not verifying or validating the generated content.
