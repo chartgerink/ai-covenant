@@ -8,7 +8,7 @@ toc: false
 The use of "Artificial Intelligence" models affects the dynamics between people. We encourage mindful and considerate use of "AI" in our community that is grounded in our community values.
 
 Specific behaviors we do not allow:
-
+- Using AI tools without the consent of people affected by them.
 - Using AI tools without the consent of the people affected
 - Passing AI generated content off as your own
 - Arriving to a meeting with an AI assistant without asking the other participants
