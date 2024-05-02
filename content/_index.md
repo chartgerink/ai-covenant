@@ -10,7 +10,7 @@ Specific behaviors we do not allow:
 - Passing generated content off as your own
 - Sending your AI assistant to meetings in your place
 - [promoting the use of AI for everything (AI-ifying everything)]
-- [not verifying or validating generated content]
+- - If the use of generative tools has been allowed, not verifying or validating the generated content.
 - [fully AI based production cycles]
 
 Specific behaviors we encourage/allow:
