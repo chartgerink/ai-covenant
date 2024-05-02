@@ -18,7 +18,7 @@ Specific behaviors we encourage/allow:
 - Marking any generated content with the model and prompt used for its creation (for example images).
 - Requesting consent of participants and organizers to use AI based tools.
   - ...use "AI"
-  - ...share [information] with "AI"
+- Inform other participants if data or content they have produced is going to be shared with an "AI" tool (e.g., for content summarization)
 - Justify the use of "AI" on a case by case basis, taking into account risks, harms.
 
 [As a general principle, we recommend regarding AI as a third-party you are involving, who you are responsible for. Inviting a third-party to a meeting or sharing information with them can be a breach of community trust.]
