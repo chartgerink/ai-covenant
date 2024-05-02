@@ -7,7 +7,7 @@ title: About
 
 The AI Covenant sets out shared norms for responsible use of AI. We want to make sure our community spaces are safe and welcoming also when AI tools are used. The AI Covenant is inspired by [the Contributor Covenant](https://www.contributor-covenant.org/) and aims to be copy-pasted into your own code of conduct. The AI Covenant is available under a CC0 Public Domain Dedication --- this means you can adjust it as you see fit. After all, the AI Covenant is a departure point and discussion starter.
 
-The idea for this "AI Code of Conduct" originated during the Collaborations Workshop 2024, in conversations between Eli Chadwick and Matt Craddock.. Riva Quiroga and Chris Hartgerink expanded on the idea and built the website that you are looking at now.
+The idea for this "AI Code of Conduct" originated during the Collaborations Workshop 2024, in conversations between Eli Chadwick, Matt Craddock, and Thomas Zwagerman. Riva Quiroga and Chris Hartgerink expanded on the idea and built the website that you are looking at now.
 
 Codes of conduct help make explicit what behaviors are welcome and unwelcome in a community. With so-called "Artificial Intelligence" (AI) tools spreading in usage, new behaviors show up that we may feel uncomfortable with or can be a harm for members of the community.
 
