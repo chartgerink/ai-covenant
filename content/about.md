@@ -9,7 +9,7 @@ The AI Covenant sets out shared norms for responsible use of AI. We want to make
 
 The idea for this "AI Code of Conduct" originated during the Collaborations Workshop 2024, in conversations between Eli Chadwick and Matt Craddock.. Riva Quiroga and Chris Hartgerink expanded on the idea and built the website that you are looking at now.
 
-Codes of conduct help make explicit what behaviors are welcome and unwelcome in a community. With so-called "Artificial Intelligence" (AI) tools spreading in usage, new behaviors show up that we may feel uncomfortable with. [Maybe we can say that this is about taking into account these new behaviors in the conversation about what makes our spaces safe and welcoming for everyone participating in them]
+Codes of conduct help make explicit what behaviors are welcome and unwelcome in a community. With so-called "Artificial Intelligence" (AI) tools spreading in usage, new behaviors show up that we may feel uncomfortable with or can be a harm for members of the community.
 
 ## Contributing
 
