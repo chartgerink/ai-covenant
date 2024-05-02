@@ -27,6 +27,7 @@ As a general principle, AI is a third-party that is involved, and the person inv
 
 ## Contributors
 
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -48,6 +49,12 @@ All contributions to this project are gratefully acknowledged using the [`allcon
 </a><br>
 <a href="https://github.com/chartgerink/ai-covenant/commits?author=rivaquiroga">rivaquiroga</a>
 </td>
+<td align="center">
+<a href="https://github.com/craddm">
+<img src="https://avatars.githubusercontent.com/u/5796417?u=4acf51040756a61ab791bdbe80259bef8869d288&v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/chartgerink/ai-covenant/commits?author=craddm">craddm</a>
+</td>
 </tr>
 
 </table>
@@ -55,4 +62,5 @@ All contributions to this project are gratefully acknowledged using the [`allcon
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
