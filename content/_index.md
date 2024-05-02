@@ -1,6 +1,5 @@
 ---
 title: AI Covenant
-toc: false
 ---
 
 ![100% human made](https://img.shields.io/badge/100%25%20human%20made-violet?style=for-the-badge&logo=myspace)
