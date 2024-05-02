@@ -18,7 +18,7 @@ Specific behaviors we do not allow:
 Specific behaviors we encourage/allow:
 
 - Mark any generated content with the model and prompt used for its creation (for example images).
-- Requesting consent of participants and organizers to use AI based tools.
+- Request consent of participants and organizers to use AI based tools.
 - Inform other participants if data or content they produced is going to be shared with an AI tool (e.g., for content summarization).
 - Justify the use of AI on a case by case basis, taking into account risks, harms.
 - If an AI tool is used (with consent) to generate information about someone (e.g., transcription), providing affected people with ways to correct the information.
