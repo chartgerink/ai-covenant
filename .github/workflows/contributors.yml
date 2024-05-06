@@ -29,7 +29,7 @@ jobs:
                     allcontributors
 
             - name: Collect contributor data
-              run: Rscript -e 'allcontributors::add_contributors(files = c('README.md', 'content/_index.md'), num_sections = 1, alphabetical = TRUE)'
+              run: Rscript -e 'allcontributors::add_contributors(files = c("README.md", "content/_index.md"), num_sections = 1, alphabetical = TRUE)'
             - uses: EndBug/add-and-commit@v9
               with:
                 author_name: ai-covenant-bot
